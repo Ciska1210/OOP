@@ -38,7 +38,7 @@ public class Application {
 			Dier kat = new Dier();
 			Dier hond = new Dier();
 			
-			kat.naam = "Milo";
+			kat.naam = "Olim";
 			kat.leeftijd = 3;
 			kat.kleur = "zwart";
 			kat.levend = true;
