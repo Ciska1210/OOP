@@ -1,4 +1,4 @@
-
+// Ciska je bent een topper
 public class Dier {
 
 	public String naam;
